@@ -1,4 +1,4 @@
-Projeto feito em  ReactJS para o desafio do processo seletivo Nagem front end;
+Projeto feito em  ReactJS utilizando json-server para requisição de API REST para o desafio do processo seletivo Nagem front end;
 
 
 ![image](https://user-images.githubusercontent.com/64990900/166941596-efb9f4d7-9689-4452-b288-a37f531ef8a9.png)
